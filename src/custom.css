@@ -1,0 +1,9 @@
+.centre {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.centre > *{
+    margin-inline: auto;
+}
