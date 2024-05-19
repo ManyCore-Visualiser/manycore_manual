@@ -26,5 +26,6 @@
     - [Task computation cost](./configuring/task.md)
     - [Overriding fill colour](./configuring/override.md)
 - [Editing a System](./editing.md)
+- [Retrieving elements' information](./hovering.md)
 
 [Additional Software requirements](./additional_software.md)
