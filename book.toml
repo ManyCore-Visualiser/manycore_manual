@@ -9,4 +9,5 @@ title = "ManyCore Visualiser User Manual"
 command = "python3 download_preprocessor.py"
 
 [output.html]
-additional-css = ["src/custom.css"]
+additional-js = ["js/video.min.js"]
+additional-css = ["css/manycore.css", "css/emoji.css", "css/video-js.css"]
