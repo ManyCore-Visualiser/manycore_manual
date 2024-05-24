@@ -11,4 +11,4 @@ command = "python3 download_preprocessor.py"
 [output.html]
 additional-js = ["js/video.min.js"]
 additional-css = ["css/manycore.css", "css/emoji.css", "css/video-js.css"]
-site-url = "/manual/"
+site-url = "/manycore_manual/"
